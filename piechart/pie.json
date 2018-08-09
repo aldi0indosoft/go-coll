@@ -1,0 +1,120 @@
+[{
+    "label": "3",
+    "series": [
+        {
+            "name": "YA",
+            "color": "#5E8BC0",
+            "data": [38]
+        },
+        {
+            "name": "TIDAK",
+            "color": "#AA4643",
+            "data": [16]
+        }
+    ]
+},
+{
+    "label": "4",
+    "series": [
+        {
+            "name": "YA",
+            "color": "#5E8BC0",
+            "data": [17]
+        },
+        {
+            "name": "TIDAK",
+            "color": "#AA4643",
+            "data": [37]
+        }
+    ]
+},
+{
+    "label": "5",
+    "series": [
+        {
+            "name": "YA",
+            "color": "#5E8BC0",
+            "data": [40]
+        },
+        {
+            "name": "TIDAK",
+            "color": "#AA4643",
+            "data": [14]
+        }
+    ]
+},
+{
+    "label": "6",
+    "series": [
+        {
+            "name": "YA",
+            "color": "#5E8BC0",
+            "data": [31]
+        },
+        {
+            "name": "TIDAK",
+            "color": "#AA4643",
+            "data": [23]
+        }
+    ]
+},
+{
+    "label": "7",
+    "series": [
+        {
+            "name": "YA",
+            "color": "#5E8BC0",
+            "data": [40]
+        },
+        {
+            "name": "TIDAK",
+            "color": "#AA4643",
+            "data": [14]
+        }
+    ]
+},
+{
+    "label": "8",
+    "series": [
+        {
+            "name": "YA",
+            "color": "#5E8BC0",
+            "data": [33]
+        },
+        {
+            "name": "TIDAK",
+            "color": "#AA4643",
+            "data": [21]
+        }
+    ]
+},
+{
+    "label": "9",
+    "series": [
+        {
+            "name": "YA",
+            "color": "#5E8BC0",
+            "data": [46]
+        },
+        {
+            "name": "TIDAK",
+            "color": "#AA4643",
+            "data": [8]
+        }
+    ]
+},
+{
+    "label": "10",
+    "series": [
+        {
+            "name": "YA",
+            "color": "#5E8BC0",
+            "data": [46]
+        },
+        {
+            "name": "TIDAK",
+            "color": "#AA4643",
+            "data": [8]
+        }
+    ]
+}]
